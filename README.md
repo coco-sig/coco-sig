@@ -22,3 +22,9 @@ computer                 0       ???  0 disk
 └─crkbd                  0       ???  1 part  /kb
   └─ergol                0       ???  1 part  /kb_layout
 ```
+
+## 💀 Non-negotiable Truths
+
+- [There is nothing more permanent than a temporary solution](https://en.wiktionary.org/wiki/there_is_nothing_more_permanent_than_a_temporary_solution)
+- Should you implement your own IAM system from scratch?
+![](./iam_from_scratch_what_could_go_wrong.png)
