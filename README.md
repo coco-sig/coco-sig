@@ -28,3 +28,5 @@ computer                 0       ???  0 disk
 - [There is nothing more permanent than a temporary solution](https://en.wiktionary.org/wiki/there_is_nothing_more_permanent_than_a_temporary_solution)
 - Should you implement your own IAM system from scratch?
 ![](./iam_from_scratch_what_could_go_wrong.png)
+- Do I have to implement my own complete IAM system from scratch just because I have a very complex permission management system?
+![](iam_yet_another_unhinged_meme.png)
