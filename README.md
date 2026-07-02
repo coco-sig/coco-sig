@@ -30,3 +30,8 @@ computer                 0       ???  0 disk
 ![](./iam_from_scratch_what_could_go_wrong.png)
 - Do I have to implement my own complete IAM system from scratch just because I have a very complex permission management system?
 ![](iam_yet_another_unhinged_meme.png)
+
+> [!WARNING]
+> Don't bother asking me for help if you are struggling with a *particular in-house IAM system* that does not even comply with [OAuth 2.0](https://www.rfc-editor.org/info/rfc6749/) or [OIDC](https://openid.net/foundation/how-connect-works/).
+>
+> That said... I can show you where the trash can is 🗑️.
